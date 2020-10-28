@@ -2,7 +2,7 @@
 
 ### 🌱 I’m currently learning ...
 
-[![Twitter](https://img.shields.io/badge/-Twitter-eff?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Gildder)
+[![Twitter](https://img.shields.io/badge/-Twitter-0a2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Gildder)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gildder-guerrero-ramirez-bb58895b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gildder.guerrero.ramirez@gmail.com)
 
