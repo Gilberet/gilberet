@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gildder.guerrero.ramirez@gmail.com)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gilberet)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gilberet)](https://github.com/gilberet/github-readme-stats)
 
 
 <!--
