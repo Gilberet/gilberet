@@ -46,6 +46,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildder&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gildder&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+
 -------
 
 <!--START_SECTION:waka-->
