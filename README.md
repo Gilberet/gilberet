@@ -9,10 +9,10 @@
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gilberet)](https://github.com/gilberet/github-readme-stats)
 -->
+<h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<h4 align="center">Top langs :tongue:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gilberet&show_icons=true&theme=synthwave" alt="gilberet :: Profile Stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberet&langs_count=10&theme=tokyonight&layout=compact" alt="gilberet :: Top Langs" /></p>
 
 <!--
 **Gilberet/gilberet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,11 +47,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p align="center"><img src="https://profile-counter.glitch.me/{gilberet}/count.svg" alt="gilberet :: Visitor's Count" /></p>
 
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gilberet&show_icons=true&theme=synthwave" alt="gilberet :: Profile Stats" /></p>
 
 
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberet&langs_count=10&theme=tokyonight&layout=compact" alt="gilberet :: Top Langs" /></p>
 
 
 -------
