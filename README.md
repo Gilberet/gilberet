@@ -8,8 +8,11 @@
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gilberet)](https://github.com/gilberet/github-readme-stats)
-
 -->
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberet&langs_count=10&theme=tokyonight&layout=compact" alt="gilberet :: Top Langs" /></p>
 
 <!--
 **Gilberet/gilberet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +36,7 @@ Hi, I'm [Gildder](http://gildder.com/), a passionate self-taught Full Stack web 
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+<p align="center"><img src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" alt="Synthwave" height="300" width="500"></p>
 
 -------
 
@@ -42,15 +46,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center"><img src="https://profile-counter.glitch.me/{gilberet}/count.svg" alt="gilberet :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberet&langs_count=10&theme=tokyonight&layout=compact" alt="gilberet :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gilberet&show_icons=true&theme=synthwave" alt="gilberet :: Profile Stats" /></p>
 
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fexperienciajoven.com%2Fcarrera-de-programacion-de-videojuegos%2F&psig=AOvVaw1ALROvXOCvck-_cZvYf1xA&ust=1616634425986000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNik_9jex-8CFQAAAAAdAAAAABAD" alt="Synthwave" height="300" width="500"></p>
+
 
 
 -------
