@@ -6,10 +6,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gildder-guerrero-ramirez-bb58895b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gildder.guerrero.ramirez@gmail.com)
 
-
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gilberet)](https://github.com/gilberet/github-readme-stats)
 
-
+-->
 
 <!--
 **Gilberet/gilberet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,7 +50,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gilberet&show_icons=true&theme=synthwave" alt="gilberet :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fexperienciajoven.com%2Fcarrera-de-programacion-de-videojuegos%2F&psig=AOvVaw1ALROvXOCvck-_cZvYf1xA&ust=1616634425986000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNik_9jex-8CFQAAAAAdAAAAABAD" alt="Synthwave" height="300" width="500"></p>
 
 
 -------
