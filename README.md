@@ -29,10 +29,22 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack web developer and a freelance software engineer from Bolivia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Gildder](http://gildder.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from Bolivia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+
+-------
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 -------
 
