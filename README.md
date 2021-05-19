@@ -11,7 +11,7 @@
 -->
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gilberet&show_icons=true&theme=synthwave" alt="gilberet :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=gilberet&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="gilberet :: Profile Stats" /></p>
 
 
 <!--
