@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=gilberet&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
 <br />
 
 Hi, I'm [Gildder](http://gildder.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from Bolivia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
